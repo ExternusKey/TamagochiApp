@@ -1,0 +1,14 @@
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\bin\Debug\net8.0\TamagochiApp.exe
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\bin\Debug\net8.0\TamagochiApp.deps.json
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\bin\Debug\net8.0\TamagochiApp.runtimeconfig.json
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\bin\Debug\net8.0\TamagochiApp.dll
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\bin\Debug\net8.0\TamagochiApp.pdb
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.AssemblyInfoInputs.cache
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.AssemblyInfo.cs
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.csproj.CoreCompileInputs.cache
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.dll
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\refint\TamagochiApp.dll
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.pdb
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.genruntimeconfig.cache
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\ref\TamagochiApp.dll
