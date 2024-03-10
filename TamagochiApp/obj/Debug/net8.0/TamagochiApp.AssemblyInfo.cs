@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TamagochiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f3cea9fba2c81531b31f654c792475eb04eb79")]
 [assembly: System.Reflection.AssemblyProductAttribute("TamagochiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TamagochiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

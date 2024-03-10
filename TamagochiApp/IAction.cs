@@ -11,5 +11,6 @@ namespace TamagochiApp
         public void Feed();
         public void Play();
         public void Sleep();
+        public void Work();
     }
 }

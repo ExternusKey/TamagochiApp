@@ -12,3 +12,4 @@ C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\refint\Tamagoc
 C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.pdb
 C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.genruntimeconfig.cache
 C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\ref\TamagochiApp.dll
+C:\Users\vades\Desktop\TamagochiApp\TamagochiApp\obj\Debug\net8.0\TamagochiApp.sourcelink.json
