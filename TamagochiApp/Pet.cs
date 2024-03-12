@@ -60,6 +60,7 @@ namespace TamagochiApp
 
         public void DrinkEnergy()
         {
+            balance = balance - 3;
             fatigue = (fatigue >= 2) ? fatigue - 2 : 0;
         }
 
